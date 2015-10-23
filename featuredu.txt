@@ -1,3 +1,5 @@
 Feature du pradşia
 Feature du visokie tai dalykai ir dalykëliai,
 labai daug feature du bet dar ne viskas.
+
+Feature du beveik jau visai iki galo
