@@ -1,4 +1,4 @@
 Laba diena.
 
 Padarykime pakeitimø.
-Pridekime dar ğá bei ta.
+Pridëkime dar ğá bei tà.
